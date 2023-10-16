@@ -27,7 +27,7 @@ A pessoa usuária pode selecionar os dados que serão exibidos nos eixos X e Y, 
 
 Há uma legenda posicionada ao lado direito do gráfico, indicando a cor aplicada a cada espécie. Ao passar o mouse sobre o nome ou a cor de uma das espécies, os dados dela são destacados no gráfico, como pode ser visto no GIF abaixo.
 
-#![gráfico de dispersão "Sepal Length x Sepal Width". Ao passar o mouse sobre uma das espécies na legenda, seus dados são destacados no gráfico, enquanto os outros recebem uma cor opaca](https://github.com/zingarelli/IrisScatterPlotD3/assets/19349339/2e5c609d-9386-45c3-a5db-f7e79b09de1a)
+![gráfico de dispersão "Sepal Length x Sepal Width". Ao passar o mouse sobre uma das espécies na legenda, seus dados são destacados no gráfico, enquanto os outros recebem uma cor opaca](https://github.com/zingarelli/IrisScatterPlotD3/assets/19349339/2e5c609d-9386-45c3-a5db-f7e79b09de1a)
 
 ## Instalação
 
